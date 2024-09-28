@@ -1,8 +1,6 @@
 # Hi, I'm rayane 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&hide_progress=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&hide_progress=true)                   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&size_weight=0.5&count_weight=0.5)
 
 – an aspiring AI engineer and a passionate developer from Morocco, currently studying at 1337 (42 School). My journey is focused on mastering artificial intelligence, machine learning, and software development.
 
