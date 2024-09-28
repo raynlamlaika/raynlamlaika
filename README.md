@@ -1,4 +1,10 @@
-👋 Hi, I'm rayane – an aspiring AI engineer and a passionate developer from Morocco, currently studying at 1337 (42 School). My journey is focused on mastering artificial intelligence, machine learning, and software development.
+# Hi, I'm rayane 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raynlamlaika)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+– an aspiring AI engineer and a passionate developer from Morocco, currently studying at 1337 (42 School). My journey is focused on mastering artificial intelligence, machine learning, and software development.
 
 
 🌱 I'm learning:
