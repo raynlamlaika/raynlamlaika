@@ -9,7 +9,7 @@
 - Mathematical foundations for AI
 - Machine Learning concepts and algorithms
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&hide_progress=true)                   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&hide_progress=true&theme=radical)                   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raynlamlaika&show_icons=true&theme=radical)
 
@@ -28,5 +28,5 @@
 - lamlaikarayane@gmail.com
 - linkedin : https://www.linkedin.com/in/rayane-lamlaika-10a7632a2/
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raynlamlaika&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raynlamlaika&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
