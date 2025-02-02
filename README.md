@@ -1,4 +1,4 @@
-# Hi, I'm rayane 
+# Hi, It's rayane 
 
 – an aspiring AI engineer and a passionate developer from Morocco, currently studying at 1337 (42 School). My journey is focused on mastering artificial intelligence, machine learning, and software development.
 
