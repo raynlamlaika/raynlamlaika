@@ -9,7 +9,7 @@
 - Mathematical foundations for AI
 - Machine Learning concepts and algorithms
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&hide_progress=true&theme=radical)                   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&size_weight=0.5&count_weight=0.5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynlamlaika&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raynlamlaika&show_icons=true&theme=radical)
 
