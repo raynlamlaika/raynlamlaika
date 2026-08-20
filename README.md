@@ -1,7 +1,7 @@
 
                                                                                                   
                                                                                                   
-![LeetCode](https://github-readme-leetcode-card.romitsagu.com/raynlamlaik?theme=dark)
+![LeetCode](https://github-readme-leetcode-card.romitsagu.com/lamlaikarayane?theme=dark)
                                                                                                   
                                                                                                   
 📫 How to reach me:
